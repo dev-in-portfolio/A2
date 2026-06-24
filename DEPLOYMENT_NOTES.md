@@ -12,6 +12,7 @@ Expected public URL:
 4. Confirm album image URLs resolve under `/media/albums/...`.
 5. Confirm the Alex site points at this base URL.
 6. Re-run the media build whenever the source ZIPs change.
+7. Keep the Netlify CORS headers in place so the Alex gallery can fetch the manifest from the browser.
 
 ## Notes
 

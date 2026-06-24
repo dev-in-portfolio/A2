@@ -2,13 +2,14 @@
 
 This repo holds the public, static media library for the Alex birthday site.
 
-It is meant to be deployed as GitHub Pages and consumed by the `Alex` repo.
+It is meant to be deployed as a static Netlify site and consumed by the `Alex` repo.
 
 ## What lives here
 
 - Optimized full-size photos
 - Thumbnails
 - Album manifests
+- Human-history era metadata
 - A reusable media build script
 
 ## What does not live here
@@ -38,6 +39,7 @@ You can also pass individual ZIP files or an alternate source folder.
 
 - `data/albums.json` powers album cards.
 - `data/manifest.json` powers the full gallery.
+- `data/history-eras.json` powers timeline-style framing.
 - `media/albums/.../full/` stores optimized full images.
 - `media/albums/.../thumbs/` stores thumbnails.
 
@@ -49,4 +51,4 @@ You can also pass individual ZIP files or an alternate source folder.
 
 ## Deployment
 
-See `DEPLOYMENT_NOTES.md` for GitHub Pages steps and expected URLs.
+See `DEPLOYMENT_NOTES.md` for Netlify steps and expected URLs.

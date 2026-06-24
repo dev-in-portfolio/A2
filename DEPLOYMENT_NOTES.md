@@ -2,15 +2,16 @@
 
 Expected public URL:
 
-`https://dev-in-portfolio.github.io/A2/`
+`https://happy-alex-2.netlify.app/`
 
 ## Publish Checklist
 
-1. Enable GitHub Pages from the `main` branch.
+1. Deploy the site to Netlify.
 2. Confirm `data/manifest.json` loads in the browser.
-3. Confirm album image URLs resolve under `/media/albums/...`.
-4. Confirm the Alex site points at this base URL.
-5. Re-run the media build whenever the source ZIPs change.
+3. Confirm `data/history-eras.json` loads in the browser.
+4. Confirm album image URLs resolve under `/media/albums/...`.
+5. Confirm the Alex site points at this base URL.
+6. Re-run the media build whenever the source ZIPs change.
 
 ## Notes
 

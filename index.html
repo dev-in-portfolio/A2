@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alex Birthday Media Storage</title>
+  <meta name="description" content="Static media storage and manifest host for the Alex birthday site.">
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #050505;
+      --panel: #0c0c0c;
+      --gold: #d4af37;
+      --gold-soft: rgba(212, 175, 55, 0.14);
+      --text: #f2ede2;
+      --muted: #a39a8d;
+      --border: rgba(212, 175, 55, 0.16);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { min-height: 100%; margin: 0; }
+    body {
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background:
+        radial-gradient(circle at top, rgba(212, 175, 55, 0.12), transparent 34%),
+        radial-gradient(circle at bottom right, rgba(245, 230, 163, 0.08), transparent 18%),
+        var(--bg);
+      color: var(--text);
+    }
+
+    main {
+      width: min(1000px, calc(100vw - 2rem));
+      margin: 0 auto;
+      padding: 4rem 0 3rem;
+    }
+
+    .hero {
+      padding: 2.5rem;
+      border: 1px solid var(--border);
+      border-radius: 28px;
+      background: linear-gradient(180deg, rgba(12, 12, 12, 0.96), rgba(9, 9, 9, 0.96));
+      box-shadow: 0 24px 80px rgba(0, 0, 0, 0.45);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      padding: 0.4rem 0.8rem;
+      border-radius: 999px;
+      background: var(--gold-soft);
+      border: 1px solid var(--border);
+      color: var(--gold);
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      font-size: 0.68rem;
+    }
+
+    h1 {
+      margin: 1rem 0 0.75rem;
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: clamp(2.4rem, 6vw, 4.6rem);
+      line-height: 0.98;
+    }
+
+    p {
+      color: var(--muted);
+      line-height: 1.7;
+      max-width: 66ch;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    .card {
+      padding: 1rem 1.1rem;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .card strong {
+      display: block;
+      margin-bottom: 0.4rem;
+      color: var(--gold);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-size: 0.72rem;
+    }
+
+    .card a {
+      color: var(--text);
+      text-decoration: none;
+      word-break: break-word;
+    }
+
+    .card a:hover {
+      color: var(--gold);
+    }
+
+    .note {
+      margin-top: 1.5rem;
+      padding: 1rem 1.1rem;
+      border-radius: 20px;
+      border: 1px dashed var(--border);
+      color: var(--muted);
+      background: rgba(212, 175, 55, 0.04);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <span class="eyebrow">A2 Media Host</span>
+      <h1>Alex Birthday Media Storage</h1>
+      <p>
+        This static repo powers the Alex gallery and Party slideshow. It serves optimized public images,
+        album manifests, and the history-era metadata used by the birthday timeline framing.
+      </p>
+
+      <div class="grid">
+        <div class="card">
+          <strong>Albums</strong>
+          <a href="./data/albums.json">/data/albums.json</a>
+        </div>
+        <div class="card">
+          <strong>Manifest</strong>
+          <a href="./data/manifest.json">/data/manifest.json</a>
+        </div>
+        <div class="card">
+          <strong>History Eras</strong>
+          <a href="./data/history-eras.json">/data/history-eras.json</a>
+        </div>
+        <div class="card">
+          <strong>Media Root</strong>
+          <a href="./media/albums/">/media/albums/</a>
+        </div>
+      </div>
+
+      <div class="note">
+        Status: static, public, and dependency-light. If you are seeing this page, the media host is up and ready for the gallery.
+      </div>
+    </section>
+  </main>
+</body>
+</html>

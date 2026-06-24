@@ -1,0 +1,336 @@
+{
+    "generatedAt":  "2026-06-24T14:46:25.8651736Z",
+    "eraCount":  55,
+    "eras":  [
+                 {
+                     "number":  1,
+                     "dateRange":  "c.2.6M BCE - c.10000 BCE",
+                     "title":  "Early Humans",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  2,
+                     "dateRange":  "c.115000 BCE - c.11700 BCE",
+                     "title":  "Ice Age",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  3,
+                     "dateRange":  "c.40000 BCE - c.10000 BCE",
+                     "title":  "Cave Art",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  4,
+                     "dateRange":  "c.10000 BCE - c.4000 BCE",
+                     "title":  "Farming Breakthrough",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  5,
+                     "dateRange":  "c.10000 BCE - c.6500 BCE",
+                     "title":  "First Villages",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  6,
+                     "dateRange":  "c.4500 BCE - c.1900 BCE",
+                     "title":  "Sumer",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  7,
+                     "dateRange":  "c.3300 BCE - c.1200 BCE",
+                     "title":  "Bronze Age",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  8,
+                     "dateRange":  "c.3300 BCE - c.1300 BCE",
+                     "title":  "Indus Valley",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  9,
+                     "dateRange":  "c.3100 BCE - 30 BCE",
+                     "title":  "Ancient Egypt",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  10,
+                     "dateRange":  "c.2100 BCE - c.1750 BCE",
+                     "title":  "Early Laws",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  11,
+                     "dateRange":  "c.2070 BCE - c.1046 BCE",
+                     "title":  "Early China",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  12,
+                     "dateRange":  "c.1500 BCE - c.500 CE",
+                     "title":  "Ancient India",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  13,
+                     "dateRange":  "c.1200 BCE - 586 BCE",
+                     "title":  "Ancient Israel",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  14,
+                     "dateRange":  "c.1200 BCE - c.1150 BCE",
+                     "title":  "Bronze Age Collapse",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  15,
+                     "dateRange":  "c.1200 BCE - c.550 BCE",
+                     "title":  "Iron Age",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  16,
+                     "dateRange":  "c.1200 BCE - 539 BCE",
+                     "title":  "Phoenicians",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  17,
+                     "dateRange":  "c.800 BCE - 323 BCE",
+                     "title":  "Ancient Greece",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  18,
+                     "dateRange":  "770 BCE - 221 BCE",
+                     "title":  "Classical China",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  19,
+                     "dateRange":  "509 BCE - 27 BCE",
+                     "title":  "Roman Republic",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  20,
+                     "dateRange":  "336 BCE - 31 BCE",
+                     "title":  "Alexander Hellenistic",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  21,
+                     "dateRange":  "27 BCE - 476 CE",
+                     "title":  "Roman Empire",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  22,
+                     "dateRange":  "c.30 CE - 313 CE",
+                     "title":  "Rise of Christianity",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  23,
+                     "dateRange":  "c.250 CE - 1533 CE",
+                     "title":  "Maya Aztec Inca",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  24,
+                     "dateRange":  "330 CE - 1453 CE",
+                     "title":  "Byzantium",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  25,
+                     "dateRange":  "376 CE - 476 CE",
+                     "title":  "Fall of Western Rome",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  26,
+                     "dateRange":  "500 CE - 1500 CE",
+                     "title":  "Medieval Europe",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  27,
+                     "dateRange":  "610 CE - 750 CE",
+                     "title":  "Rise of Islam",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  28,
+                     "dateRange":  "618 CE - 1279 CE",
+                     "title":  "Tang Song China",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  29,
+                     "dateRange":  "c.700 CE - 1600 CE",
+                     "title":  "African Kingdoms",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  30,
+                     "dateRange":  "750 CE - 1258 CE",
+                     "title":  "Islamic Golden Age",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  31,
+                     "dateRange":  "793 CE - 1066 CE",
+                     "title":  "Viking Age",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  32,
+                     "dateRange":  "1185 CE - 1603 CE",
+                     "title":  "Medieval Japan",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  33,
+                     "dateRange":  "1206 CE - 1368 CE",
+                     "title":  "Mongol Empire",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  34,
+                     "dateRange":  "1300 CE - 1600 CE",
+                     "title":  "Renaissance",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  35,
+                     "dateRange":  "1347 CE - 1353 CE",
+                     "title":  "Black Death",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  36,
+                     "dateRange":  "1450 CE - 1750 CE",
+                     "title":  "Age of Exploration",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  37,
+                     "dateRange":  "1492 CE - 1600 CE",
+                     "title":  "Conquest of Americas",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  38,
+                     "dateRange":  "1543 CE - 1687 CE",
+                     "title":  "Scientific Revolution",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  39,
+                     "dateRange":  "1685 CE - 1815 CE",
+                     "title":  "The Enlightenment",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  40,
+                     "dateRange":  "1765 CE - 1804 CE",
+                     "title":  "American Revolution Atlantic Revolutions",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  41,
+                     "dateRange":  "1789 CE - 1815 CE",
+                     "title":  "French Revolution Napoleon Era",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  42,
+                     "dateRange":  "1808 CE - 1830 CE",
+                     "title":  "Latin American Independence Revolutionary Age",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  43,
+                     "dateRange":  "1868 CE - 1912 CE",
+                     "title":  "Meiji Japan Modernizing Japan",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  44,
+                     "dateRange":  "1870 CE - 1914 CE",
+                     "title":  "Age of Imperialism",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  45,
+                     "dateRange":  "1929 CE - 1939 CE",
+                     "title":  "Great Depression Interwar World",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  46,
+                     "dateRange":  "1939 CE - 1945 CE",
+                     "title":  "World War II",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  47,
+                     "dateRange":  "1940 CE - 1990 CE",
+                     "title":  "Computer Revolution",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  48,
+                     "dateRange":  "1954 CE - 1968 CE",
+                     "title":  "Civil Rights Movements",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  49,
+                     "dateRange":  "1957 CE - 1975 CE",
+                     "title":  "Space Race",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  50,
+                     "dateRange":  "1970 CE - Present",
+                     "title":  "Digital Age Internet AI Era",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  51,
+                     "dateRange":  "1990 CE - 2010 CE",
+                     "title":  "Internet Age",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  52,
+                     "dateRange":  "2001 CE - 2020 CE",
+                     "title":  "Post 9 11 World",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  53,
+                     "dateRange":  "2007 CE - Present",
+                     "title":  "Smartphone Era",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  54,
+                     "dateRange":  "missing",
+                     "title":  "[Era 54 not supplied]",
+                     "description":  "[description not supplied in the source prompt]"
+                 },
+                 {
+                     "number":  55,
+                     "dateRange":  "missing",
+                     "title":  "[Era 55 not supplied]",
+                     "description":  "[description not supplied in the source prompt]"
+                 }
+             ]
+}

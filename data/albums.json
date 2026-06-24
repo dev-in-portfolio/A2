@@ -1,0 +1,378 @@
+{
+  "generatedAt": "2026-06-24T02:07:03.118575Z",
+  "albumCount": 53,
+  "photoCount": 337,
+  "albums": [
+    {
+      "id": "c-2-6m-bce-c-10000-bce-early-humans",
+      "title": "Early Humans",
+      "year": "c.2.6M BCE - c.10000 BCE",
+      "cover": "media/albums/c-2-6m-bce-c-10000-bce-early-humans/thumbs/c-2-6m-bce-c-10000-bce-early-humans-001-c-2-6m-bce-c-10000-bce-early-humans-01-of-10.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "c-115000-bce-c-11700-bce-ice-age",
+      "title": "Ice Age",
+      "year": "c.115000 BCE - c.11700 BCE",
+      "cover": "media/albums/c-115000-bce-c-11700-bce-ice-age/thumbs/c-115000-bce-c-11700-bce-ice-age-001-c-115000-bce-c-11700-bce-ice-age-01-of-10.jpg",
+      "photoCount": 10
+    },
+    {
+      "id": "c-40000-bce-c-10000-bce-cave-art",
+      "title": "Cave Art",
+      "year": "c.40000 BCE - c.10000 BCE",
+      "cover": "media/albums/c-40000-bce-c-10000-bce-cave-art/thumbs/c-40000-bce-c-10000-bce-cave-art-001-c-40000-bce-c-10000-bce-cave-art-01-of-10.jpg",
+      "photoCount": 10
+    },
+    {
+      "id": "c-10000-bce-c-4000-bce-farming-breakthrough",
+      "title": "Farming Breakthrough",
+      "year": "c.10000 BCE - c.4000 BCE",
+      "cover": "media/albums/c-10000-bce-c-4000-bce-farming-breakthrough/thumbs/c-10000-bce-c-4000-bce-farming-breakthrough-001-c-10000-bce-c-4000-bce-farming-breakthrough-01-of-08.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "c-10000-bce-c-6500-bce-first-villages",
+      "title": "First Villages",
+      "year": "c.10000 BCE - c.6500 BCE",
+      "cover": "media/albums/c-10000-bce-c-6500-bce-first-villages/thumbs/c-10000-bce-c-6500-bce-first-villages-001-c-10000-bce-c-6500-bce-first-villages-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-4500-bce-c-1900-bce-sumer",
+      "title": "Sumer",
+      "year": "c.4500 BCE - c.1900 BCE",
+      "cover": "media/albums/c-4500-bce-c-1900-bce-sumer/thumbs/c-4500-bce-c-1900-bce-sumer-001-c-4500-bce-c-1900-bce-sumer-01-of-08.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "c-3300-bce-c-1200-bce-bronze-age",
+      "title": "Bronze Age",
+      "year": "c.3300 BCE - c.1200 BCE",
+      "cover": "media/albums/c-3300-bce-c-1200-bce-bronze-age/thumbs/c-3300-bce-c-1200-bce-bronze-age-001-c-3300-bce-c-1200-bce-bronze-age-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-3300-bce-c-1300-bce-indus-valley",
+      "title": "Indus Valley",
+      "year": "c.3300 BCE - c.1300 BCE",
+      "cover": "media/albums/c-3300-bce-c-1300-bce-indus-valley/thumbs/c-3300-bce-c-1300-bce-indus-valley-001-c-3300-bce-c-1300-bce-indus-valley-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-3100-bce-30-bce-ancient-egypt",
+      "title": "Ancient Egypt",
+      "year": "c.3100 BCE - 30 BCE",
+      "cover": "media/albums/c-3100-bce-30-bce-ancient-egypt/thumbs/c-3100-bce-30-bce-ancient-egypt-001-c-3100-bce-30-bce-ancient-egypt-01-of-07.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "c-2100-bce-c-1750-bce-early-laws",
+      "title": "Early Laws",
+      "year": "c.2100 BCE - c.1750 BCE",
+      "cover": "media/albums/c-2100-bce-c-1750-bce-early-laws/thumbs/c-2100-bce-c-1750-bce-early-laws-001-c-2100-bce-c-1750-bce-early-laws-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-2070-bce-c-1046-bce-early-china",
+      "title": "Early China",
+      "year": "c.2070 BCE - c.1046 BCE",
+      "cover": "media/albums/c-2070-bce-c-1046-bce-early-china/thumbs/c-2070-bce-c-1046-bce-early-china-001-c-2070-bce-c-1046-bce-early-china-01-of-05.jpg",
+      "photoCount": 5
+    },
+    {
+      "id": "c-1500-bce-c-500-ce-ancient-india",
+      "title": "Ancient India",
+      "year": "c.1500 BCE - c.500 CE",
+      "cover": "media/albums/c-1500-bce-c-500-ce-ancient-india/thumbs/c-1500-bce-c-500-ce-ancient-india-001-c-1500-bce-c-500-ce-ancient-india-01-of-08.jpg",
+      "photoCount": 8
+    },
+    {
+      "id": "c-1200-bce-586-bce-ancient-israel",
+      "title": "Ancient Israel",
+      "year": "c.1200 BCE - 586 BCE",
+      "cover": "media/albums/c-1200-bce-586-bce-ancient-israel/thumbs/c-1200-bce-586-bce-ancient-israel-001-c-1200-bce-586-bce-ancient-israel-01-of-08.jpg",
+      "photoCount": 8
+    },
+    {
+      "id": "c-1200-bce-c-1150-bce-bronze-age-collapse",
+      "title": "Bronze Age Collapse",
+      "year": "c.1200 BCE - c.1150 BCE",
+      "cover": "media/albums/c-1200-bce-c-1150-bce-bronze-age-collapse/thumbs/c-1200-bce-c-1150-bce-bronze-age-collapse-001-c-1200-bce-c-1150-bce-bronze-age-collapse-01-of-09.jpg",
+      "photoCount": 9
+    },
+    {
+      "id": "c-1200-bce-c-550-bce-iron-age",
+      "title": "Iron Age",
+      "year": "c.1200 BCE - c.550 BCE",
+      "cover": "media/albums/c-1200-bce-c-550-bce-iron-age/thumbs/c-1200-bce-c-550-bce-iron-age-001-c-1200-bce-c-550-bce-iron-age-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-1200-bce-539-bce-phoenicians",
+      "title": "Phoenicians",
+      "year": "c.1200 BCE - 539 BCE",
+      "cover": "media/albums/c-1200-bce-539-bce-phoenicians/thumbs/c-1200-bce-539-bce-phoenicians-001-c-1200-bce-539-bce-phoenicians-01-of-07.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "c-800-bce-323-bce-ancient-greece",
+      "title": "Ancient Greece",
+      "year": "c.800 BCE - 323 BCE",
+      "cover": "media/albums/c-800-bce-323-bce-ancient-greece/thumbs/c-800-bce-323-bce-ancient-greece-001-c-800-bce-323-bce-ancient-greece-01-of-04.jpg",
+      "photoCount": 4
+    },
+    {
+      "id": "770-bce-221-bce-classical-china",
+      "title": "Classical China",
+      "year": "770 BCE - 221 BCE",
+      "cover": "media/albums/770-bce-221-bce-classical-china/thumbs/770-bce-221-bce-classical-china-001-770-bce-221-bce-classical-china-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "509-bce-27-bce-roman-republic",
+      "title": "Roman Republic",
+      "year": "509 BCE - 27 BCE",
+      "cover": "media/albums/509-bce-27-bce-roman-republic/thumbs/509-bce-27-bce-roman-republic-001-509-bce-27-bce-roman-republic-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "336-bce-31-bce-alexander-hellenistic",
+      "title": "Alexander Hellenistic",
+      "year": "336 BCE - 31 BCE",
+      "cover": "media/albums/336-bce-31-bce-alexander-hellenistic/thumbs/336-bce-31-bce-alexander-hellenistic-001-336-bce-31-bce-alexander-hellenistic-01-of-08.jpg",
+      "photoCount": 8
+    },
+    {
+      "id": "27-bce-476-ce-roman-empire",
+      "title": "Roman Empire",
+      "year": "27 BCE - 476 CE",
+      "cover": "media/albums/27-bce-476-ce-roman-empire/thumbs/27-bce-476-ce-roman-empire-001-27-bce-476-ce-roman-empire-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-30-ce-313-ce-rise-of-christianity",
+      "title": "Rise of Christianity",
+      "year": "c.30 CE - 313 CE",
+      "cover": "media/albums/c-30-ce-313-ce-rise-of-christianity/thumbs/c-30-ce-313-ce-rise-of-christianity-001-c-30-ce-313-ce-rise-of-christianity-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-250-ce-1533-ce-maya-aztec-inca",
+      "title": "Maya Aztec Inca",
+      "year": "c.250 CE - 1533 CE",
+      "cover": "media/albums/c-250-ce-1533-ce-maya-aztec-inca/thumbs/c-250-ce-1533-ce-maya-aztec-inca-001-c-250-ce-1533-ce-maya-aztec-inca-01-of-09.jpg",
+      "photoCount": 5
+    },
+    {
+      "id": "330-ce-1453-ce-byzantium",
+      "title": "Byzantium",
+      "year": "330 CE - 1453 CE",
+      "cover": "media/albums/330-ce-1453-ce-byzantium/thumbs/330-ce-1453-ce-byzantium-001-330-ce-1453-ce-byzantium-02-of-08.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "376-ce-476-ce-fall-of-western-rome",
+      "title": "Fall of Western Rome",
+      "year": "376 CE - 476 CE",
+      "cover": "media/albums/376-ce-476-ce-fall-of-western-rome/thumbs/376-ce-476-ce-fall-of-western-rome-001-376-ce-476-ce-fall-of-western-rome-01-of-09.jpg",
+      "photoCount": 9
+    },
+    {
+      "id": "500-ce-1500-ce-medieval-europe",
+      "title": "Medieval Europe",
+      "year": "500 CE - 1500 CE",
+      "cover": "media/albums/500-ce-1500-ce-medieval-europe/thumbs/500-ce-1500-ce-medieval-europe-001-500-ce-1500-ce-medieval-europe-01-of-05.jpg",
+      "photoCount": 4
+    },
+    {
+      "id": "610-ce-750-ce-rise-of-islam",
+      "title": "Rise of Islam",
+      "year": "610 CE - 750 CE",
+      "cover": "media/albums/610-ce-750-ce-rise-of-islam/thumbs/610-ce-750-ce-rise-of-islam-001-610-ce-750-ce-rise-of-islam-01-of-06.jpg",
+      "photoCount": 5
+    },
+    {
+      "id": "618-ce-1279-ce-tang-song-china",
+      "title": "Tang Song China",
+      "year": "618 CE - 1279 CE",
+      "cover": "media/albums/618-ce-1279-ce-tang-song-china/thumbs/618-ce-1279-ce-tang-song-china-001-618-ce-1279-ce-tang-song-china-01-of-06.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "c-700-ce-1600-ce-african-kingdoms",
+      "title": "African Kingdoms",
+      "year": "c.700 CE - 1600 CE",
+      "cover": "media/albums/c-700-ce-1600-ce-african-kingdoms/thumbs/c-700-ce-1600-ce-african-kingdoms-001-c-700-ce-1600-ce-african-kingdoms-01-of-06.jpg",
+      "photoCount": 3
+    },
+    {
+      "id": "750-ce-1258-ce-islamic-golden-age",
+      "title": "Islamic Golden Age",
+      "year": "750 CE - 1258 CE",
+      "cover": "media/albums/750-ce-1258-ce-islamic-golden-age/thumbs/750-ce-1258-ce-islamic-golden-age-001-750-ce-1258-ce-islamic-golden-age-01-of-07.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "793-ce-1066-ce-viking-age",
+      "title": "Viking Age",
+      "year": "793 CE - 1066 CE",
+      "cover": "media/albums/793-ce-1066-ce-viking-age/thumbs/793-ce-1066-ce-viking-age-001-793-ce-1066-ce-viking-age-01-of-13.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "1185-ce-1603-ce-medieval-japan",
+      "title": "Medieval Japan",
+      "year": "1185 CE - 1603 CE",
+      "cover": "media/albums/1185-ce-1603-ce-medieval-japan/thumbs/1185-ce-1603-ce-medieval-japan-001-1185-ce-1603-ce-medieval-japan-01-of-09.jpg",
+      "photoCount": 8
+    },
+    {
+      "id": "1206-ce-1368-ce-mongol-empire",
+      "title": "Mongol Empire",
+      "year": "1206 CE - 1368 CE",
+      "cover": "media/albums/1206-ce-1368-ce-mongol-empire/thumbs/1206-ce-1368-ce-mongol-empire-001-1206-ce-1368-ce-mongol-empire-02-of-07.jpg",
+      "photoCount": 5
+    },
+    {
+      "id": "1300-ce-1600-ce-renaissance",
+      "title": "Renaissance",
+      "year": "1300 CE - 1600 CE",
+      "cover": "media/albums/1300-ce-1600-ce-renaissance/thumbs/1300-ce-1600-ce-renaissance-001-1300-ce-1600-ce-renaissance-04-of-06.jpg",
+      "photoCount": 3
+    },
+    {
+      "id": "1347-ce-1353-ce-black-death",
+      "title": "Black Death",
+      "year": "1347 CE - 1353 CE",
+      "cover": "media/albums/1347-ce-1353-ce-black-death/thumbs/1347-ce-1353-ce-black-death-001-1347-ce-1353-ce-black-death-01-of-08.jpg",
+      "photoCount": 8
+    },
+    {
+      "id": "1450-ce-1750-ce-age-of-exploration",
+      "title": "Age of Exploration",
+      "year": "1450 CE - 1750 CE",
+      "cover": "media/albums/1450-ce-1750-ce-age-of-exploration/thumbs/1450-ce-1750-ce-age-of-exploration-001-1450-ce-1750-ce-age-of-exploration-03-of-10.jpg",
+      "photoCount": 8
+    },
+    {
+      "id": "1492-ce-1600-ce-conquest-of-americas",
+      "title": "Conquest of Americas",
+      "year": "1492 CE - 1600 CE",
+      "cover": "media/albums/1492-ce-1600-ce-conquest-of-americas/thumbs/1492-ce-1600-ce-conquest-of-americas-001-1492-ce-1600-ce-conquest-of-americas-01-of-10.jpg",
+      "photoCount": 9
+    },
+    {
+      "id": "1543-ce-1687-ce-scientific-revolution",
+      "title": "Scientific Revolution",
+      "year": "1543 CE - 1687 CE",
+      "cover": "media/albums/1543-ce-1687-ce-scientific-revolution/thumbs/1543-ce-1687-ce-scientific-revolution-001-1543-ce-1687-ce-scientific-revolution-02-of-07.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "1685-ce-1815-ce-the-enlightenment",
+      "title": "The Enlightenment",
+      "year": "1685 CE - 1815 CE",
+      "cover": "media/albums/1685-ce-1815-ce-the-enlightenment/thumbs/1685-ce-1815-ce-the-enlightenment-001-1685-ce-1815-ce-the-enlightenment-01-of-10.jpg",
+      "photoCount": 9
+    },
+    {
+      "id": "1765-ce-1804-ce-american-revolution-atlantic-revolutions",
+      "title": "American Revolution Atlantic Revolutions",
+      "year": "1765 CE - 1804 CE",
+      "cover": "media/albums/1765-ce-1804-ce-american-revolution-atlantic-revolutions/thumbs/1765-ce-1804-ce-american-revolution-atlantic-revolutions-001-1765-ce-1804-ce-american-revolution-atlantic-revolutions-01-of-10.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "1789-ce-1815-ce-french-revolution-napoleon-era",
+      "title": "French Revolution Napoleon Era",
+      "year": "1789 CE - 1815 CE",
+      "cover": "media/albums/1789-ce-1815-ce-french-revolution-napoleon-era/thumbs/1789-ce-1815-ce-french-revolution-napoleon-era-001-1789-ce-1815-ce-french-revolution-napoleon-era-01-of-08.jpg",
+      "photoCount": 8
+    },
+    {
+      "id": "1808-ce-1830-ce-latin-american-independence-revolutionary-age",
+      "title": "Latin American Independence Revolutionary Age",
+      "year": "1808 CE - 1830 CE",
+      "cover": "media/albums/1808-ce-1830-ce-latin-american-independence-revolutionary-age/thumbs/1808-ce-1830-ce-latin-american-independence-revolutionary-age-001-1808-ce-1830-ce-latin-american-independence-revolutionary-age-01-of-10.jpg",
+      "photoCount": 7
+    },
+    {
+      "id": "1868-ce-1912-ce-meiji-japan-modernizing-japan",
+      "title": "Meiji Japan Modernizing Japan",
+      "year": "1868 CE - 1912 CE",
+      "cover": "media/albums/1868-ce-1912-ce-meiji-japan-modernizing-japan/thumbs/1868-ce-1912-ce-meiji-japan-modernizing-japan-001-1868-ce-1912-ce-meiji-japan-modernizing-japan-01-of-10.jpg",
+      "photoCount": 9
+    },
+    {
+      "id": "1870-ce-1914-ce-age-of-imperialism",
+      "title": "Age of Imperialism",
+      "year": "1870 CE - 1914 CE",
+      "cover": "media/albums/1870-ce-1914-ce-age-of-imperialism/thumbs/1870-ce-1914-ce-age-of-imperialism-001-1870-ce-1914-ce-age-of-imperialism-01-of-09.jpg",
+      "photoCount": 5
+    },
+    {
+      "id": "1929-ce-1939-ce-great-depression-interwar-world",
+      "title": "Great Depression Interwar World",
+      "year": "1929 CE - 1939 CE",
+      "cover": "media/albums/1929-ce-1939-ce-great-depression-interwar-world/thumbs/1929-ce-1939-ce-great-depression-interwar-world-001-1929-ce-1939-ce-great-depression-interwar-world-01-of-05.jpg",
+      "photoCount": 4
+    },
+    {
+      "id": "1939-ce-1945-ce-world-war-ii",
+      "title": "World War II",
+      "year": "1939 CE - 1945 CE",
+      "cover": "media/albums/1939-ce-1945-ce-world-war-ii/thumbs/1939-ce-1945-ce-world-war-ii-001-1939-ce-1945-ce-world-war-ii-01-of-10.jpg",
+      "photoCount": 10
+    },
+    {
+      "id": "1940-ce-1990-ce-computer-revolution",
+      "title": "Computer Revolution",
+      "year": "1940 CE - 1990 CE",
+      "cover": "media/albums/1940-ce-1990-ce-computer-revolution/thumbs/1940-ce-1990-ce-computer-revolution-001-1940-ce-1990-ce-computer-revolution-05-of-05.jpg",
+      "photoCount": 1
+    },
+    {
+      "id": "1954-ce-1968-ce-civil-rights-movements",
+      "title": "Civil Rights Movements",
+      "year": "1954 CE - 1968 CE",
+      "cover": "media/albums/1954-ce-1968-ce-civil-rights-movements/thumbs/1954-ce-1968-ce-civil-rights-movements-001-1954-ce-1968-ce-civil-rights-movements-01-of-04.jpg",
+      "photoCount": 4
+    },
+    {
+      "id": "1957-ce-1975-ce-space-race",
+      "title": "Space Race",
+      "year": "1957 CE - 1975 CE",
+      "cover": "media/albums/1957-ce-1975-ce-space-race/thumbs/1957-ce-1975-ce-space-race-001-1957-ce-1975-ce-space-race-03-of-08.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "1970-ce-present-digital-age-internet-ai-era",
+      "title": "Digital Age Internet AI Era",
+      "year": "1970 CE - Present",
+      "cover": "media/albums/1970-ce-present-digital-age-internet-ai-era/thumbs/1970-ce-present-digital-age-internet-ai-era-001-1970-ce-present-digital-age-internet-ai-era-02-of-04.jpg",
+      "photoCount": 3
+    },
+    {
+      "id": "1990-ce-2010-ce-internet-age",
+      "title": "Internet Age",
+      "year": "1990 CE - 2010 CE",
+      "cover": "media/albums/1990-ce-2010-ce-internet-age/thumbs/1990-ce-2010-ce-internet-age-001-1990-ce-2010-ce-internet-age-05-of-13.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "2001-ce-2020-ce-post-9-11-world",
+      "title": "Post 9 11 World",
+      "year": "2001 CE - 2020 CE",
+      "cover": "media/albums/2001-ce-2020-ce-post-9-11-world/thumbs/2001-ce-2020-ce-post-9-11-world-001-2001-ce-2020-ce-post-9-11-world-03-of-05.jpg",
+      "photoCount": 3
+    },
+    {
+      "id": "2007-ce-present-smartphone-era",
+      "title": "Smartphone Era",
+      "year": "2007 CE - Present",
+      "cover": "media/albums/2007-ce-present-smartphone-era/thumbs/2007-ce-present-smartphone-era-001-2007-ce-present-smartphone-era-01-of-07.jpg",
+      "photoCount": 4
+    }
+  ]
+}

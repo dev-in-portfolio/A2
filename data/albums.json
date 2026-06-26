@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T02:07:03.118575Z",
-  "albumCount": 53,
-  "photoCount": 337,
+  "generatedAt": "2026-06-26T19:45:25.562881Z",
+  "albumCount": 60,
+  "photoCount": 420,
   "albums": [
     {
       "id": "c-2-6m-bce-c-10000-bce-early-humans",
@@ -373,6 +373,55 @@
       "year": "2007 CE - Present",
       "cover": "media/albums/2007-ce-present-smartphone-era/thumbs/2007-ce-present-smartphone-era-001-2007-ce-present-smartphone-era-01-of-07.jpg",
       "photoCount": 4
+    },
+    {
+      "id": "chapter-01-birth-of-a-legend",
+      "title": "Chapter 01 - Birth of a Legend",
+      "year": "unknown-year",
+      "cover": "media/albums/chapter-01-birth-of-a-legend/thumbs/chapter-01-birth-of-a-legend-001-chapter-01-birth-of-a-legend-01-pacifier-pressure-the-origin-story.jpg",
+      "photoCount": 2
+    },
+    {
+      "id": "chapter-02-childhood-credentials",
+      "title": "Chapter 02 - Childhood Credentials",
+      "year": "unknown-year",
+      "cover": "media/albums/chapter-02-childhood-credentials/thumbs/chapter-02-childhood-credentials-001-chapter-02-childhood-credentials-01-licensed-since-preschool.jpg",
+      "photoCount": 2
+    },
+    {
+      "id": "chapter-03-final-form-and-multiverse",
+      "title": "Chapter 03 - Final Form and Multiverse",
+      "year": "unknown-year",
+      "cover": "media/albums/chapter-03-final-form-and-multiverse/thumbs/chapter-03-final-form-and-multiverse-001-chapter-03-final-form-and-multiverse-01-final-boss-entrance.jpg",
+      "photoCount": 6
+    },
+    {
+      "id": "chapter-04-mid-30s-survival-volume-one",
+      "title": "Chapter 04 - Mid-30s Survival Volume One",
+      "year": "unknown-year",
+      "cover": "media/albums/chapter-04-mid-30s-survival-volume-one/thumbs/chapter-04-mid-30s-survival-volume-one-001-chapter-04-mid-30s-survival-volume-one-01-dad-bod-quarterly.jpg",
+      "photoCount": 5
+    },
+    {
+      "id": "chapter-05-mid-30s-survival-volume-two",
+      "title": "Chapter 05 - Mid-30s Survival Volume Two",
+      "year": "unknown-year",
+      "cover": "media/albums/chapter-05-mid-30s-survival-volume-two/thumbs/chapter-05-mid-30s-survival-volume-two-001-chapter-05-mid-30s-survival-volume-two-01-what-35-looks-like-now.jpg",
+      "photoCount": 4
+    },
+    {
+      "id": "chapter-06-mid-30s-survival-volume-three",
+      "title": "Chapter 06 - Mid-30s Survival Volume Three",
+      "year": "unknown-year",
+      "cover": "media/albums/chapter-06-mid-30s-survival-volume-three/thumbs/chapter-06-mid-30s-survival-volume-three-001-chapter-06-mid-30s-survival-volume-three-01-dad-chef-of-the-year.jpg",
+      "photoCount": 5
+    },
+    {
+      "id": "spoof-magazine-covers-upscaled-jpgs",
+      "title": "Spoof Magazine Covers",
+      "year": "unknown-year",
+      "cover": "media/albums/spoof-magazine-covers-upscaled-jpgs/thumbs/spoof-magazine-covers-upscaled-jpgs-001-cover-36-maxed-out-regret.jpg",
+      "photoCount": 59
     }
   ]
 }

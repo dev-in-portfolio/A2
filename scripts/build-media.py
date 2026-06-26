@@ -63,6 +63,8 @@ def slugify(text: str) -> str:
 
 def clean_label(text: str) -> str:
     text = text.replace("_", " ").strip()
+    text = re.sub(r"\s*-?\s*upscaled\s+jpe?gs?$", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*-?\s*jpe?gs?$", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\s+", " ", text)
     text = text.replace("c. ", "c.")
     text = text.replace(" - ", " - ")
@@ -233,14 +235,14 @@ def build() -> int:
     extracted_root = tmp_root / "extracted"
     extracted_root.mkdir(parents=True, exist_ok=True)
 
-    extracted_sources: list[Path] = []
+    extracted_sources: list[tuple[Path, str]] = []
     source_summaries = []
     for archive in sources:
         if archive.suffix.lower() != ".zip":
             continue
         dest = extracted_root / slugify(archive.stem)
         ok = extract_archive(archive, dest)
-        extracted_sources.append(dest)
+        extracted_sources.append((dest, archive.stem))
         source_summaries.append({"archive": archive.name, "ok": ok, "destination": str(dest)})
 
     image_entries: list[dict] = []
@@ -248,7 +250,7 @@ def build() -> int:
     seen_hashes: set[str] = set()
     album_map: dict[str, dict] = {}
 
-    for extracted in extracted_sources:
+    for extracted, archive_stem in extracted_sources:
         for path in sorted(extracted.rglob("*")):
             if path.is_dir():
                 continue
@@ -273,7 +275,7 @@ def build() -> int:
             seen_hashes.add(file_hash)
 
             rel_parts = path.relative_to(extracted).parts
-            album_folder = rel_parts[1] if len(rel_parts) >= 2 else "unknown-year"
+            album_folder = rel_parts[1] if len(rel_parts) >= 2 else archive_stem
             title, year, sort_key = parse_album_name(album_folder)
             album_id = slugify(album_folder)
             if album_id not in album_map:
